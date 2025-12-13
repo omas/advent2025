@@ -20,5 +20,5 @@ Duolingoはゲーム感覚で学習できるので，続けやすい。毎日ロ
 
 # 過去のアドベント
 
--　[アイカレいまむかし 2002 - 2010](https://gist.github.com/omas/06fa04e2ae336752417198ae6f2ce749)
--　[アイカレいまむかし 2011 - 2015](https://gist.github.com/omas/d719a6aef8b6a76932437a22ae323cde)
+- [アイカレいまむかし 2002 - 2010](https://gist.github.com/omas/06fa04e2ae336752417198ae6f2ce749)
+- [アイカレいまむかし 2011 - 2015](https://gist.github.com/omas/d719a6aef8b6a76932437a22ae323cde)
